@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1541775663 source:c:\datas\tombstone\tombstone.cpp
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	<sys/time.h>
+	<string.h>
+	"Tombstone.h"
+
+1541775263 c:\datas\tombstone\tombstone.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<list>
+	<stdint.h>
+	<string>
+	<map>
+	<vector>
+
+1518102280 c:\datas\tombstone\help.h
+	<stdint.h>
+
